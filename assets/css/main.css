@@ -308,6 +308,7 @@ body {
     margin: 20px 0 10px 0;
     cursor: pointer;
     transition: all 0.25s linear;
+    --webkit-tap-highlight-color: transparent;
 }
 
 .currsongif-info-btn span {
